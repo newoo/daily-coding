@@ -3,5 +3,7 @@
     <pages>
         <page name='centernumber'/>
         <page name='kakao2019chooseok'/>
+        <page name='kakaoDraw'/>
+        <page name='squareRoot'/>
     </pages>
 </playground>
