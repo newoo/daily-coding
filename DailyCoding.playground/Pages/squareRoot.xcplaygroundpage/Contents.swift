@@ -55,4 +55,11 @@ class GetSquareTests: XCTestCase {
 
 GetSquareTests.defaultTestSuite.run()
 
+/**
+ 1. 이해
+ 2. 계획
+ 3. 실행
+ 4. 반성
+ */
+
 //: [Next](@next)
