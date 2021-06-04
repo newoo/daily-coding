@@ -10,5 +10,6 @@
         <page name='Prime Number'/>
         <page name='mocktest'/>
         <page name='Truck passing bridge'/>
+        <page name='TravelRoute'/>
     </pages>
 </playground>

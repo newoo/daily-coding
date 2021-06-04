@@ -23,6 +23,10 @@
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/12921)
   - [Solution(java)](java/find-prime-number)
   
+## 여행경로
+  - [Link](https://programmers.co.kr/learn/courses/30/lessons/43164)
+  - [Solution(java)](swift/travel-route)
+  
 ## 완주하지 못한 선수
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/42576)
   - [Solution(java)](java/unfinished-runner)
