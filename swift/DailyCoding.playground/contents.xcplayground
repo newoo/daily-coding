@@ -11,5 +11,7 @@
         <page name='mocktest'/>
         <page name='Truck passing bridge'/>
         <page name='TravelRoute'/>
+        <page name='distinct'/>
+        <page name='BigNumber'/>
     </pages>
 </playground>
