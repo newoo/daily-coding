@@ -22,6 +22,10 @@
 ## 두 개 뽑아서 더하기
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/68644)
   - [Solution(java)](java/pick-two-and-add)
+  
+## 모의고사
+  - [Link](https://programmers.co.kr/learn/courses/30/lessons/42840)
+  - [Solution(swift)](swift/mock-exam)
 
 ## 소수찾기
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/12921)
