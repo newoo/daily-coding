@@ -31,6 +31,10 @@
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/12921)
   - [Solution(java)](java/find-prime-number)
   
+## 신규 아이디 추천(kakao)
+  - [Link](https://programmers.co.kr/learn/courses/30/lessons/12921)
+  - [Solution(swift)](swift/new-id-recommendation)
+  
 ## 여행경로
   - [Link](https://programmers.co.kr/learn/courses/30/lessons/43164)
   - [Solution(java)](swift/travel-route)
