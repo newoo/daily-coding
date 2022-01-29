@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 /**
@@ -57,4 +55,3 @@ func isPrime(number: Int) -> Bool {
 print(solution("17")) // 3
 print(solution("011")) // 2
 
-//: [Next](@next)
