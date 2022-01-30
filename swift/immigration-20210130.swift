@@ -1,13 +1,3 @@
-//: [Previous](@previous)
-
-import Foundation
-
-/**
- 
- 
- 
- */
-
 func solution(_ n:Int, _ times:[Int]) -> Int64 {
   Int64(findCounter(times: times, original: times, n: n - 1))
 }
@@ -29,5 +19,3 @@ func findCounter(times: [Int], original: [Int], n: Int) -> Int {
 }
 
 print(solution(6, [7, 10])) // 28
-
-//: [Next](@next)
