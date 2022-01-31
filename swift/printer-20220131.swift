@@ -1,13 +1,3 @@
-//: [Previous](@previous)
-
-import Foundation
-
-/**
- 
- 
- 
- */
-
 func solution(_ priorities:[Int], _ location:Int) -> Int {
   return pop(queue: priorities.enumerated().map { ($0, $1) }, location: location, max: priorities.max() ?? 9, count: 0)
 }
@@ -49,4 +39,3 @@ func pop(queue: [(Int, Int)], location: Int, max: Int, count: Int) -> Int {
 print(solution([2, 1, 3, 2], 2)) // 1
 print(solution([1, 1, 9, 1, 1, 1], 0)) // 5
 
-//: [Next](@next)
