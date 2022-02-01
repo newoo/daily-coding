@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 /**
@@ -38,4 +36,3 @@ print(solution([0, 0, 0, 0, 0, 0], [38, 19, 20, 40, 15, 25])) // [1, 6]
 print(solution([45, 4, 35, 20, 3, 9], [20, 9, 3, 45, 4, 35])) // [1, 1]
 print(solution([1, 2, 3, 4, 5, 6], [38, 19, 20, 40, 15, 25])) // [6, 6]
 
-//: [Next](@next)
