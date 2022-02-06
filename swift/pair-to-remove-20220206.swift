@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12973
 
 import Foundation
@@ -50,4 +48,3 @@ func deleteAll(in alphabets: [Character]) -> Bool {
 print(solution("baabaa")) // 1
 print(solution("cdcd")) // 0
 
-//: [Next](@next)
