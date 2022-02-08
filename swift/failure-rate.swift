@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/42889
 
 import Foundation
@@ -25,4 +23,3 @@ func solution(_ N:Int, _ stages:[Int]) -> [Int] {
 print(solution(5, [2, 1, 2, 6, 2, 4, 3, 3])) // [3,4,2,1,5]
 print(solution(4, [4,4,4,4,4])) // [4,1,2,3]
 
-//: [Next](@next)
