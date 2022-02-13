@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/67258
 
 /**
@@ -30,4 +28,3 @@ print(solution(["AA", "AB", "AC", "AA", "AC"])) // [1, 3]
 print(solution(["XYZ", "XYZ", "XYZ"])) // [1, 1]
 print(solution(["ZZZ", "YYY", "NNNN", "YYY", "BBB"])) // [1, 5]
 
-//: [Next](@next)
