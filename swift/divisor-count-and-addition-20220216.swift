@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/77884
 
 /**
@@ -32,4 +30,4 @@ func getAliquotCount(of number: Int) -> Int {
 
 print(solution(13, 17)) // 43
 print(solution(24, 27)) // 52
-//: [Next](@next)
+
