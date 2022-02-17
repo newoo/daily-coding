@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/68935
 
 /**
@@ -25,4 +23,4 @@ func toDecimal(from nums: [Int]) -> Int {
 
 print(solution(45)) // 7
 print(solution(125)) // 229
-//: [Next](@next)
+
