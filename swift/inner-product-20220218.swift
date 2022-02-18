@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/70128
 
 /**
@@ -16,4 +14,4 @@ func solution(_ a:[Int], _ b:[Int]) -> Int {
 
 print(solution([1,2,3,4], [-3,-1,0,2])) // 3
 print(solution([-1,0,1], [1,0,-1])) // -2
-//: [Next](@next)
+
