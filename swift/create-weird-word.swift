@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12930
 
 /**
@@ -19,4 +17,3 @@ func solution(_ s:String) -> String {
 
 print(solution("try hello world")) // "TrY HeLlO WoRlD"
 
-//: [Next](@next)
