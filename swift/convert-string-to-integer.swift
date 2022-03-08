@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 
 // https://programmers.co.kr/learn/courses/30/lessons/12925
 
@@ -13,4 +12,3 @@ func solution(_ s:String) -> Int {
 
 print(solution("-99099")) // -99099
 
-//: [Next](@next)
