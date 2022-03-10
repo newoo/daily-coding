@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12939
 
 /**
@@ -14,6 +12,5 @@ func solution(_ s:String) -> String {
 
 print(solution("1 2 3 4")) // "1 4"
 print(solution("-1 -2 -3 -4")) // "-4 -1"
-print(solution("-1 -1")) // "-1 -1"
+print(solution("-1 -1")) // "-1 -1
 
-//: [Next](@next)
