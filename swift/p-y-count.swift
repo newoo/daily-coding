@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12916
 
 /**
@@ -18,4 +16,3 @@ func getCountAlphabet(_ alphabet: String, s: String) -> Int {
 print(solution("pPoooyY")) // true
 print(solution("Pyy")) // false
 
-//: [Next](@next)
