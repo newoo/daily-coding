@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12918
 
 /**
@@ -14,4 +12,3 @@ func solution(_ s:String) -> Bool {
 print(solution("a234")) // false
 print(solution("1234")) // true
 
-//: [Next](@next)
