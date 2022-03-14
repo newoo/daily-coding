@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12917
 
 /**
@@ -13,4 +11,3 @@ func solution(_ s:String) -> String {
 
 print(solution("Zbcdefg")) // gfedcbZ
 
-//: [Next](@next)
