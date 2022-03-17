@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12933
 
 /**
@@ -23,4 +21,3 @@ func solution(_ n:Int64) -> Int64 {
 }
 print(solution(118372)) // 873211
 
-//: [Next](@next)
