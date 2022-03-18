@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12911
 
 /**
@@ -20,4 +18,3 @@ func solution(_ n:Int) -> Int {
 print(solution(78)) // 83
 print(solution(15)) // 23
 
-//: [Next](@next)
