@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/42895
 
 /**
@@ -72,5 +70,3 @@ print(solution(2, 11)) // 3
 print(solution(5, 31168)) // -1
 print(solution(8, 53)) // 5 <- 위의 로직으로는 6이 나옴
 
-
-//: [Next](@next)
