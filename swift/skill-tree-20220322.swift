@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/49993
 
 /**
@@ -37,5 +35,3 @@ print(solution("CBD", ["BACDE", "CBADF", "AECB", "BDA"])) // 2
 //    return skill_trees.map { available(skill, $0) }.filter { $0 }.count
 //}
 
-
-//: [Next](@next)
