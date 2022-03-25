@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12913
 
 /**
@@ -29,4 +27,3 @@ func step(current: [Int], next: [[Int]]) -> [Int] {
 
 print(solution([[1,2,3,5],[5,6,7,8],[4,3,2,1]])) // 16
 
-//: [Next](@next)
