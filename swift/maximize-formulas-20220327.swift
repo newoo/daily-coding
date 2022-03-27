@@ -1,4 +1,3 @@
-//: [Previous](@previous)
 
 // https://programmers.co.kr/learn/courses/30/lessons/67257
 
@@ -66,4 +65,3 @@ print(solution("100-200*300-500+20")) // 60420
 print(solution("50*6-3*2")) // 300
 print(solution("2*2*2*2*2-2*2*2")) // 24
 
-//: [Next](@next)
