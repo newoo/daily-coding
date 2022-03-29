@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12944
 
 /**
@@ -14,4 +12,3 @@ func solution(_ arr:[Int]) -> Double {
 print(solution([1,2,3,4])) // 2.5
 print(solution([5,5])) // 5
 
-//: [Next](@next)
