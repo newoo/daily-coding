@@ -1,10 +1,3 @@
-//: [Previous](@previous)
-
-// https://programmers.co.kr/learn/courses/30/lessons/12915
-
-/**
- */
-
 import Foundation
 
 func solution(_ strings:[String], _ n:Int) -> [String] {
@@ -18,4 +11,3 @@ func index(_ n: Int, in string: String) -> String {
 print(solution(["sun", "bed", "car"], 1)) // ["car", "bed", "sun"]
 print(solution(["abce", "abcd", "cdx"], 2)) // ["abcd", "abce", "cdx"]
 
-//: [Next](@next)
