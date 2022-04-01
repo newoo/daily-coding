@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/82612
 
 /**
@@ -13,4 +11,3 @@ func solution(_ price:Int, _ money:Int, _ count:Int) -> Int64{
 
 print(solution(3, 20, 4)) // 10
 
-//: [Next](@next)
