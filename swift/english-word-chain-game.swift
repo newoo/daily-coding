@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12981
 
 /**
@@ -35,4 +33,3 @@ print(solution(3, ["tank", "kick", "know", "wheel", "land", "dream", "mother", "
 print(solution(5, ["hello", "observe", "effect", "take", "either", "recognize", "encourage", "ensure", "establish", "hang", "gather", "refer", "reference", "estimate", "executive"])) // [0,0]
 print(solution(2, ["hello", "one", "even", "never", "now", "world", "draw"])) // [1,3]
 
-//: [Next](@next)
