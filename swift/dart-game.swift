@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/17682
 
 /**
@@ -60,4 +58,3 @@ print(solution("1D#2S*3S")) // 5
 print(solution("1T2D3D#")) // -4
 print(solution("1D2S3T*")) // 59
 
-//: [Next](@next)
