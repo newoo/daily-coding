@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12950
 
 /**
@@ -14,4 +12,3 @@ func solution(_ arr1:[[Int]], _ arr2:[[Int]]) -> [[Int]] {
 print(solution([[1,2],[2,3]], [[3,4],[5,6]])) // [[4,6],[7,9]]
 print(solution([[1],[2]], [[3],[4]])) // [[4],[6]]
 
-//: [Next](@next)
