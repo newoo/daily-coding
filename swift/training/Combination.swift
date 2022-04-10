@@ -56,17 +56,16 @@ func combination(origin: [Int], r: Int, idx: Int, selected: [Int]) -> [[Int]] {
   if r == 0 {
     return [selected]
   } else if idx == origin.count {
-    return [[]]
+    return []
   } else {
-    let selected = combination(origin: origin,
-                               r: r - 1,
-                               idx: idx + 1,
-                               selected: selected + [origin[idx]])
-    let unselected = combination(origin: origin,
-                                 r: r,
-                                 idx: idx + 1,
-                                 selected: selected)
-    return selected + unselected
+    let _selected = combination(origin: origin,
+                                r: r - 1,
+                                idx: idx + 1,
+                                selected: selected + [origin[idx]])
+    let _unselected = combination(origin: origin,
+                                  r: r,
+                                  idx: idx + 1,
+                                  selected: selected)
+    return _selected + _unselected
   }
 }
-
