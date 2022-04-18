@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12905
 
 /**
@@ -67,6 +65,5 @@ func isSquare(board: [[Int]], position: (Int, Int), length: Int) -> Bool {
 
 print(solution([[0,1,1,1],[1,1,1,1],[1,1,1,1],[0,0,1,0]])) // 9
 print(solution([[0,0,1,1],[1,1,1,1]])) // 4
-print(solution([[1, 0],[0, 0]])) // 4
+print(solution([[1, 0],[0, 0]])) // 1
 
-//: [Next](@next)
