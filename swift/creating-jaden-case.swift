@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 // https://programmers.co.kr/learn/courses/30/lessons/12951
 
 /**
@@ -17,4 +15,3 @@ func solution(_ s:String) -> String {
 print(solution("3people unFollowed me")) // "3people Unfollowed Me"
 print(solution("for the last week")) // "For The Last Week"
 
-//: [Next](@next)
